@@ -1,26 +1,21 @@
-# 🖤🛣️ BlackRoad Fundraising Platform
+# BlackRoad Fundraising Platform
 
-Part of the BlackRoad Product Empire - 350+ enterprise solutions
+Crowdfunding and fundraising platform with payment processing and campaign management.
 
-## 🚀 Quick Start
+## Features
 
-```bash
-./blackroad-fundraising-platform.sh
-```
+- **Campaign Builder** - Beautiful fundraising pages
+- **Payment Processing** - Cards, crypto, bank transfer
+- **Donor Management** - CRM for supporters
+- **Analytics** - Campaign performance metrics
+- **Social Sharing** - Viral fundraising tools
+- **Compliance** - Tax receipts and reporting
 
-## 🎨 BlackRoad Design System
+## Campaign Types
 
-- **Hot Pink**: #FF1D6C
-- **Amber**: #F5A623  
-- **Electric Blue**: #2979FF
-- **Violet**: #9C27B0
+Crowdfunding, recurring donations, peer-to-peer, events
 
-## 📚 Documentation
+## License
 
-Full docs: https://docs.blackroad.io
-
-## 🖤 BlackRoad Empire
-
-Part of 350+ products across 46 categories. Built with ∞ vision.
-
-**BlackRoad OS, Inc.** | Built with Claude
+Copyright (c) 2026 BlackRoad OS, Inc. All rights reserved.
+Proprietary software. For licensing: blackroad.systems@gmail.com
